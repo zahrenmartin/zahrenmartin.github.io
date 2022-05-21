@@ -49234,7 +49234,7 @@ A.qi.prototype={
 ah(){return new A.Eh(B.n)}}
 A.Eh.prototype={
 O(a,b){var s=$.a_W()
-return new A.ej(B.kc,A.lV(A.a([A.dT("ENTREPRENEURSHIP",s),A.dT("SOFTWARE",s),A.dT("DESIGN",s),A.dT("FASHION",s)],t.p),B.ax,B.aO),null)}}
+return new A.ej(B.kc,A.lV(A.a([A.dT("ENTREPRENEURSHIP",s),A.dT("SOFTWARE",s),A.dT("DESIGN",s),A.dT("SURFING",s)],t.p),B.ax,B.aO),null)}}
 A.rx.prototype={
 ah(){return new A.Fw(A.a1H("www.github.com","/zahrenmartin","https"),B.n)}}
 A.Fw.prototype={
